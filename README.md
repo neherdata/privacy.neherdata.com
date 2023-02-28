@@ -1,3 +1,5 @@
+[![Deploy static content to Pages](https://github.com/neherdata/privacy-neherdata-com/actions/workflows/static.yml/badge.svg)](https://github.com/neherdata/privacy-neherdata-com/actions/workflows/static.yml)
+
 **Privacy Policy**
 
 Neher & Co Data Systems LLC d/b/a Neher Data Systems operates the website "Neher Data Systems" at https://www.neherdata.com/. We 
